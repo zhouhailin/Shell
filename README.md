@@ -8,17 +8,20 @@
 
 描述：
 
-* await 
+* await
+ 
   说明：执行阻塞等待, 
+
   场景：启动某个服务，等待服务完全启动
+
   使用：await $pid $port $timeout
 
 ----------
 ## 开发说明
 
-  开放环境：
+  shc环境：
  
-    shc环境：cd util && sh shc-install
+    cd util && sh shc-install
 
   开发步骤
   
